@@ -1,0 +1,78 @@
+
+html { scroll-behavior: smooth; }
+section { padding: 80px 0; }
+
+/* ── Hero ──────────────────────────────────── */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(135deg, #0d1b2a 0%, #1b4f72 55%, #154360 100%);
+  color: white;
+}
+.hero-stats {
+  border-top: 1px solid rgba(255,255,255,0.15);
+  padding-top: 2rem;
+  margin-top: 1rem;
+}
+.hero-stats h3 { color: #f0c040; }
+.hero-stats small { color: rgba(255,255,255,0.6); font-size: 0.85rem; }
+
+/* ── Event Cards ────────────────────────────── */
+.event-card {
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+  border-radius: 14px !important;
+}
+.event-card:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 16px 40px rgba(0,0,0,0.12) !important;
+}
+.event-icon {
+  width: 58px;
+  height: 58px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── About ──────────────────────────────────── */
+.about-img-wrapper { display: inline-block; width: 100%; }
+.about-badge {
+  bottom: -18px;
+  right: 24px;
+  border-radius: 14px !important;
+  text-align: center;
+  min-width: 110px;
+}
+
+/* ── Testimonials ───────────────────────────── */
+.avatar-circle {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.82rem;
+  flex-shrink: 0;
+}
+
+/* ── Contact ────────────────────────────────── */
+.contact-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+/* ── Footer ─────────────────────────────────── */
+.footer-section { background: #0d1b2a; }
+.footer-link { transition: color 0.2s; }
+.footer-link:hover { color: #f0c040 !important; }
+
