@@ -88,10 +88,6 @@ npm run preview
 
 ## Contact
 
-**Rohan Padamwar**  
-📞 +91 90989 83463  
-📧 rohan@empowergenius.in  
-📍 Maharashtra, India
 
 ---
 
