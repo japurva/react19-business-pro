@@ -15,7 +15,7 @@ export default function Footer() {
               Transforming the Indian education landscape through premier events, conclaves, and faculty development programs.
             </p>
             <div className="d-flex gap-2 mt-3">
-              <a href="tel:9098983463" className="btn btn-sm btn-outline-secondary">📞 +91 90989 83463</a>
+              <a href="tel:9098983463" className="btn btn-sm btn-outline-secondary">📞 +91 88781 80388</a>
             </div>
           </div>
           <div className="col-lg-3">
@@ -41,7 +41,7 @@ export default function Footer() {
           <div className="col-lg-3">
             <h6 className="fw-semibold mb-3 text-white">Contact</h6>
             <p className="text-secondary mb-1 fw-semibold">Rohan Padamwar</p>
-            <a href="tel:9098983463" className="text-secondary text-decoration-none d-block mb-1 footer-link">+91 90989 83463</a>
+            <a href="tel:9098983463" className="text-secondary text-decoration-none d-block mb-1 footer-link">+91 88781 80388</a>
             <a href="mailto:rohan@empowergenius.in" className="text-secondary text-decoration-none d-block mb-1 footer-link">rohan@empowergenius.in</a>
             <p className="text-secondary mb-0">Raipur, Chhattisgarh, India</p>
           </div>
