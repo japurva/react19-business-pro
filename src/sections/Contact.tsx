@@ -14,7 +14,7 @@ export default function Contact() {
               <div className="contact-icon bg-primary bg-opacity-10 text-primary">📞</div>
               <div>
                 <h6 className="fw-semibold mb-1">Phone</h6>
-                <a href="tel:9098983463" className="text-muted text-decoration-none">+91 90989 83463</a>
+                <a href="tel:9098983463" className="text-muted text-decoration-none">+91 88781 80388</a>
               </div>
             </div>
             <div className="d-flex align-items-start gap-3 mb-4">
