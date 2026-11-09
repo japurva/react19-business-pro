@@ -15,7 +15,7 @@ export default function Footer() {
               Transforming the Indian education landscape through premier events, conclaves, and faculty development programs.
             </p>
             <div className="d-flex gap-2 mt-3">
-              <a href="tel:9098983463" className="btn btn-sm btn-outline-secondary">📞 +91 88781 80388</a>
+              <a href="tel:8878180388" className="btn btn-sm btn-outline-secondary">📞 +91 88781 80388</a>
             </div>
           </div>
           <div className="col-lg-3">
