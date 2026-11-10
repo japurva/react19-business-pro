@@ -41,7 +41,7 @@ export default function Footer() {
           <div className="col-lg-3">
             <h6 className="fw-semibold mb-3 text-white">Contact</h6>
             <p className="text-secondary mb-1 fw-semibold">Rohan Padamwar</p>
-            <a href="tel:9098983463" className="text-secondary text-decoration-none d-block mb-1 footer-link">+91 88781 80388</a>
+            <a href="tel:8878180388" className="text-secondary text-decoration-none d-block mb-1 footer-link">+91 88781 80388</a>
             <a href="mailto:rohan@empowergenius.in" className="text-secondary text-decoration-none d-block mb-1 footer-link">rohan@empowergenius.in</a>
             <p className="text-secondary mb-0">Raipur, Chhattisgarh, India</p>
           </div>
